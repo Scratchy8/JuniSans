@@ -2,8 +2,7 @@
 
 JuniSans is a revival of superellipse font Samsung Imagination Modern. It includes an upright roman style and a companion italic style, and also a bold style.
 
-![Banner](Banner for JuniSans.png)
-
+![Banner](Banner%20for%20JuniSans.png)
 
 ## Font Features
 
